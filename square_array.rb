@@ -1,4 +1,4 @@
 def square_array(array)
 array.each
-self.map! {|num| num ** 2}
+[1,2,3].square!
 end
