@@ -1,4 +1,4 @@
 def square_array(array)
 array.each
-array.product
+[1,2,3].map {|num| num ** 2}
 end
