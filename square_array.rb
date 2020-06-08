@@ -1,4 +1,5 @@
 def square_array(array)
-array.each_char { |e|** }
+array.each
+[1*1,2*2,3*3]
 
 end
